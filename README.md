@@ -7,6 +7,10 @@ It includes:
 
 ## Journal Entry
 
+### Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
+The client was The Gaming Room. They wanted the design for a multiplayer game application that could run across different platforms and support many users at the same time. The key needs were scalability, reliable performance, secure access, and efficient use of resources so the system would stay responsive as the player base grows. They also needed clear separation of components so the system would be easier to maintain and extend.
+
+
 ### What did you do particularly well in developing this documentation?
 I think one of my strengths was explaining technical concepts in a way that was clear and organized. I made sure the document connected directly to the project requirements instead of just listing facts. I also put effort into comparing the different platforms fairly and highlighting the advantages and disadvantages of each.
 
