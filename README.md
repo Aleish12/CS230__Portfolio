@@ -4,6 +4,8 @@ This repository contains my final portfolio submission for CS230 - Software Desi
 It includes:
 - The completed Software Design Document for *The Gaming Room*.
 - A reflective journal entry answering the required questions.
+- [CS230 Software Design Document](CS230_Software_Design_Document.docx)
+
 
 ## Journal Entry
 
